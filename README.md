@@ -2,6 +2,14 @@
 
 A simple, complete, and clean class project demonstrating user registration, login authentication, and viewing registered users. It is built strictly with vanilla PHP, MySQL, HTML, and CSS.
 
+## Screenshots
+
+### Registration
+![Registration](register.png)
+
+### User List
+![User List](userList.png)
+
 ## Features
 
 - **User Registration**: A full registration form that accepts user details (First Name, Last Name, Department, Gender, Hobbies, Others) along with a Username and Password.
